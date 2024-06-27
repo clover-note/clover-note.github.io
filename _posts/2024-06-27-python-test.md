@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "실습 예제 입니다"
+---
+
+
 ```python
 print("파이썬 수업 중")
 ```
